@@ -1,4 +1,4 @@
-# ⚡ Lanthanum Nuker V4 – Executable Version
+#  Lanthanum Nuker V4 – Executable Version
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows">
@@ -73,11 +73,14 @@
 | `15` | Delete all emojis |
 | `16` | Delete all stickers |
 | `17` | Delete vanity URL |
-| `18` | Webhook spammer (creates webhooks on every text channel and sends bulk messages) |
+| `18` | CHANGE SERVER NAME |
 | `0x90` | Full server nuke (ban all → delete all channels → create 200 channels → spam 2000 messages) |
 | `0`   | Shut down the program |
 
 ---
+
+## RusianHarvey Send :
+I don't care if it's reverse-engineered and some trolls manage to put their names on the tool; So Fuck Skidz I'm withdrawing.
 
 <img width="1426" height="661" alt="Screenshot 2026-03-07 001829" src="https://github.com/user-attachments/assets/fd950648-c221-460c-9122-f2e45ef712e4" />
 

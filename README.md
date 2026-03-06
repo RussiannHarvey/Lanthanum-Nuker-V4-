@@ -49,6 +49,9 @@
 
 ---
 
+## Developer : RussiabHarvey
+## Discord Username : russianharvey
+
 ## 🛠️ Available Commands
 
 | Command | Description |
@@ -76,10 +79,3 @@
 
 ---
 
-## 📦 Building the Executable Yourself
-
-If you prefer to build the `.exe` from source, follow these steps:
-
-1. **Install Python 3.8+** and **PyInstaller**:
-   ```bash
-   pip install pyinstaller aiohttp colorama

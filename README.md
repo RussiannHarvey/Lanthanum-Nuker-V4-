@@ -22,7 +22,7 @@
 | ⚡ **Fully asynchronous** | Uses `aiohttp` & `asyncio` for maximum speed. |
 | 🧠 **Smart rate‑limit handling** | Automatically respects Discord’s rate limits. |
 | 🔄 **Parallel execution** | Controls concurrency to avoid hitting limits. |
-| 🕸️ **Webhook spammer** | Creates webhooks on all text channels and spams them in parallel without freezing. |
+| 🕸️ **CHANGE SERVER NAME** | CHANGE SERVER NAME TO Any Name You Wants |
 | 👥 **Unban all** | Correctly fetches all banned users using pagination. |
 | 🎨 **Colour‑coded console** | Green for success, red for failure, with timestamps. |
 | 🧹 **Compact menu** | Screen clears after each command, showing the menu again. |

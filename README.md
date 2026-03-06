@@ -80,7 +80,8 @@
 ---
 
 ## RusianHarvey Send :
-I don't care if it's reverse-engineered and some trolls manage to put their names on the tool; So Fuck Skidz I'm withdrawing.
+- I don't care if it's reverse-engineered and some trolls manage to put their names on the tool; So Fuck Skidz I'm withdrawing.
+
 
 <img width="1426" height="661" alt="Screenshot 2026-03-07 001829" src="https://github.com/user-attachments/assets/fd950648-c221-460c-9122-f2e45ef712e4" />
 
